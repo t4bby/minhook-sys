@@ -1,0 +1,10 @@
+[package]
+name = "minhook-sys"
+version = "0.1.0"
+edition = "2021"
+authors = ["Tabby <t4bby.dev@gmail.com>"]
+
+[build-dependencies]
+cc = "1.0"
+
+
